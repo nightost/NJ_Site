@@ -1,0 +1,19 @@
+/**
+ * Created by Nightost on 2015/7/2.
+ */
+body {
+  background: #ccc;
+  font-size: 10px; }
+
+.box {
+  width: 10rem;
+  height: 10rem;
+  background: #f09ea6;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -5rem;
+  margin-top: -5rem;
+  opacity: .5; }
+
+/*# sourceMappingURL=getDeviceWidth.css.map */
